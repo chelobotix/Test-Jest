@@ -1,0 +1,23 @@
+{
+  "name": "test-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chelobotix/Test-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chelobotix/Test-Jest/issues"
+  },
+  "homepage": "https://github.com/chelobotix/Test-Jest#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
